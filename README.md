@@ -32,3 +32,4 @@ Tech Share Demo showing how to use Bootstrap 5's built-in CSS and JS to build mo
 # Contributions
 - Baanee Singh: Consolidated HTML files, Computer
 - John Struyk: Intro/Conclusion, Config Research
+- Adrienne Simpson: Research/Code for Carousel, Cards, and Accordion, Present Compiled Features Webpage
