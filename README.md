@@ -23,5 +23,11 @@ Tech Share Demo showing how to use Bootstrap 5's built-in CSS and JS to build mo
 2. Open the file in any web browser (Chrome, Firefox, Edge, Safari)
 3. Interact with all the components, edit, and explore!
 
+# Learn More
+- https://getbootstrap.com/docs/5.3/getting-started/introduction/
+- https://getbootstrap.com/docs/5.3/components/modal/
+- https://getbootstrap.com/docs/5.3/components/navbar/
+- https://www.w3schools.com/bootstrap5/index.php
+
 # Contributions
 - Baanee Singh: Consolidated HTML files, Computer
