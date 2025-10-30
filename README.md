@@ -34,3 +34,4 @@ Tech Share Demo showing how to use Bootstrap 5's built-in CSS and JS to build mo
 - John Struyk: Intro/Conclusion, Config Research
 - Adrienne Simpson: Research/Code for Carousel, Cards, and Accordion, Present Compiled Features Webpage
 - Lysong Seang : Research/Code for navbar, Present Navbar feature
+- Sam Chea: Research/Code for modal, Present Modal
